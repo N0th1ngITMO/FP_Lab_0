@@ -12,6 +12,8 @@
 Lint tool - F# Lint  
 Тестирование - MSTest, xUnit  
 
+Кника для изучения: Программирование на F# - Крис Смит  
+
 Список литературы:
 1. https://habr.com/ru/articles/105215/ - веб Common Lisp
 2. https://qna.habr.com/q/698051 - Common Lisp vs F#
